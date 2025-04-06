@@ -1,6 +1,6 @@
-# Fa(c_e)Script
+# Fa(c_e)Script拡張機能
 
-Fa(c_e)Script拡張機能はo-uki氏作の顔文字プログラミング言語「fa(c_e)script」を書きやすくするものです。
+Fa(c_e)Script拡張機能はo-uki氏作の顔文字プログラミング言語「Fa(c_e)script」を書きやすくするものです。
 主に色付けやコード補完などをします。
 
 ## 変更履歴
